@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flag Predictor Game</string>
+    <string name="home_page_title">Welcome Flag Game !!</string>
+    <string name="home_page_sub_title">Pick a Level</string>
+</resources>
